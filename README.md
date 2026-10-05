@@ -62,7 +62,7 @@ Clone the repository:
 git clone https://github.com/shanajtech/BloodConnect.git
 
 Go to the project directory:
-cd BloodDonationWebApp
+cd BloodConnect
 
 Install dependencies:
 npm install
