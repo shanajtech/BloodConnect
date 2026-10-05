@@ -59,7 +59,7 @@ src/
 
 Run Locally
 Clone the repository:
-git clone https://github.com/shanajtech/BloodDonationWebApp.git
+git clone https://github.com/shanajtech/BloodConnect.git
 
 Go to the project directory:
 cd BloodDonationWebApp
