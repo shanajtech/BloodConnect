@@ -1,12 +1,58 @@
-# React + Vite
+#  BloodConnect — Blood Donation Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BloodConnect is a responsive frontend blood donation web application built with React. It is designed to help users search for blood donors, submit emergency or advance blood requests, register as donors, and manage donor-related information through a simple and user-friendly interface.
 
-Currently, two official plugins are available:
+##  Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://blood-donation-web-app-8ayr.vercel.app/
 
-## Expanding the ESLint configuration
+##  Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Search donors by blood group and location
+- Emergency blood request interface
+- Advance blood request for planned blood requirements
+- Donor registration form with validation
+- Bangladesh phone number validation
+- Password strength checking
+- Terms & Conditions modal
+- User profile interface
+- Multiple pages using React Router
+- Responsive design for desktop and mobile devices
+- Reusable React components
+- Bangladesh location data integration
+- Demo donor data for frontend functionality
+
+##  Technologies Used
+
+- React
+- JavaScript (ES6+)
+- React Router
+- Tailwind CSS
+- React Icons
+- Vite
+- JSON
+
+##  Pages
+
+- Home
+- Search Donor
+- Emergency Request
+- Advance Request
+- Registration
+- Login
+- User Profile
+
+##  Project Structure
+
+The application is organized into reusable components, pages, hooks, data, and API-related folders.
+
+```text
+src/
+├── api/
+├── assets/
+├── components/
+├── data/
+├── hooks/
+├── pages/
+├── App.jsx
+└── main.jsx
