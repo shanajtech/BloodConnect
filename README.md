@@ -56,3 +56,29 @@ src/
 ├── pages/
 ├── App.jsx
 └── main.jsx
+
+Run Locally
+Clone the repository:
+git clone https://github.com/shanajtech/BloodDonationWebApp.git
+
+Go to the project directory:
+cd BloodDonationWebApp
+
+Install dependencies:
+npm install
+
+Start the development server:
+npm run dev
+
+Future Improvements
+- Backend and database integration
+- Real donor data management
+- User authentication
+- Real-time donor search
+- Blood request management
+- Notification system
+- Editable user profiles
+Developer
+Shanaj Akter
+Frontend Developer
+GitHub: https://github.com/shanajtech
